@@ -1,1 +1,1 @@
-export const domain = "https://ezbuzz.feji.io/";
+export const domain = "https://binzz.xinloc.com/";
