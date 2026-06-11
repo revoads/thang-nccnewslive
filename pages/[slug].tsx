@@ -14,7 +14,6 @@ export async function getServerSideProps(context: any) {
         destination: domain + "" + context.params.slug.slice(0),
       },
     };
-
   }
 
   const data = await fetchMeta(domain + "" + context.params.slug.slice(0));
